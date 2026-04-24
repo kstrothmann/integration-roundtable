@@ -50,7 +50,7 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 
 ## Exercises
 
-![Pic 3](images/ISF-3.png)
+![Pic 3](images/ISF-3.jpg)
 
 Preparation and Setup
 
