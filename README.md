@@ -104,7 +104,6 @@ In case that you would like to dig deeper into event-driven architecture: a lot 
 
     - [Discover EDA](material)
     - [Start your journey to EDA with SAP](material)
-    - [AEM Roadmap](material)
 
 - Blogs
 
