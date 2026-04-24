@@ -1,6 +1,6 @@
 # Integration Suite Forum - Experience event-driven integration with advanced event mesh
 
-![Pic 1](images/ISF-1.png)
+![Pic 1](images/ISF-1.jpg)
 
 ## Description
 
