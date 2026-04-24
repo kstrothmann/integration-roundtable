@@ -1,4 +1,4 @@
-# Integration Roundtable Frankfurt  - Experience event-driven integration with advanced event mesh
+# Integration Roundtable Frankfurt: Experience event-driven integration with advanced event mesh
 
 ![Pic 1](images/ISF-1.jpg)
 
