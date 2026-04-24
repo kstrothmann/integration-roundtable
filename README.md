@@ -70,6 +70,8 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 2.1 - Learn about Topic Hierarchies and Wildcards](exercise/ex2##exercise-21-learn-about-topic-hierarchies-and-wildcards)
     - [Exercise 2.2 - Practice Topic Hierarchies and Wildcards using Try Me !](exercise/ex2##exercise-22-practice-topic-hierarchies-and-wildcards-using-try-me----berlin-edition) 
 
+OPTIONAL:
+
 - [Exercise 3 - Persistent and Non-Persistent Quality of Service](exercise/ex3/)
 
     - [Exercise 3.1 - Learn about Persistency and QoS](exercise/ex3#exercise-31-learn-about-delivery-modes-persistency-and-quality-of-service)
